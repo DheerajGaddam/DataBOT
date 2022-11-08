@@ -24,8 +24,6 @@
 #### All cloud functions are developed with google firebase
 #### Firestore and Firebase storage Database used
 #### Firestore used for all the contextual data
-#### Anytype of documents images or files are stored in firebase storage and link in stored in firebase-firestore
-
-#### Whole code is developed in java with android studios
-
+#### Anytype of documents, images or files are stored in firebase storage and link generated is stored in firebase-firestore
+#### Whole code is developed in java with android studios as environment
 #### All exceptions are handled
