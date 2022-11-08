@@ -1,29 +1,31 @@
-3 different types of acc
-Stu
-Housewives
-Working Officials
+# DataBOT
 
-Signup surely needs phone number and email mandatory
-Or authenticate with gmail or facebook or linkedin
-
-All different users have different UIs
-
-Student
-Dynamic UI
-Exam schedule, books list, to do list, Exam Scores, alarms
-
-House wives
-Groceries, to do list, bills upload storage system, alarms
-
-Working officials
-Calendar Synced with google API, meets, bills upload storage system, alarms
+### Consists of 3 difffernt types of accounts
+#### Student
+#### AtHome User
+#### Working Official
 
 
-All cloud functions are developed with google firebase
-Database used is firestore and firebase storage
-firestore is used for all the contextual data
-Anytype of documents images or files are stored in firebase storage and link in stored in firebase-firestore
+##### ***Signup Requires a phone number and an email or gives user an option to authenticate with gmail/facebook/linkedIn***
 
-Whole code is developed in java with android studios
+### All different accounts have different dynamic UIs
 
-All exceptions are handled
+#### <ins>Student
+##### Consists of features such as Exam schedule, Books list, To do list, Exam Scores and Alarms
+
+#### <ins>AtHome User
+##### Consists of features such as Groceries, To do list, Bills upload storage system and Alarms
+
+#### <ins>Working Official
+##### Consists of features such as Calendar Synced with google API, Meets schedule, Bills upload storage system and Alarms
+
+
+## Other Features
+#### All cloud functions are developed with google firebase
+#### Firestore and Firebase storage Database used
+#### Firestore used for all the contextual data
+#### Anytype of documents images or files are stored in firebase storage and link in stored in firebase-firestore
+
+#### Whole code is developed in java with android studios
+
+#### All exceptions are handled
